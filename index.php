@@ -88,9 +88,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example trial 2</h2>
+          <h2>Application Example trial 3</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="greenrose.jpeg">
           </p>
         </div>
       </div>
